@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working at [Avix Pharmaceutical Ltd.](https://avixpharma.com/)
+- 🔭 I’m currently working at [Avix Pharmaceutical Ltd.](https://avixpharma.com/) as a Web Developer
 
 - 👨‍💻 All of my projects are available at [https://shahriur.netlify.app/](https://shahriur.netlify.app/)
 
