@@ -10,7 +10,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1V6ACaPnMEsLr52XOmoeJ5MCfEUy3heF-/view](https://drive.google.com/file/d/1V6ACaPnMEsLr52XOmoeJ5MCfEUy3heF-/view)
 <h3 align="left">Best Projects:</h3>
 <ul>
-  <li>Avix Pharmaceutical Website(Commercial website): https://avixpharma.netlify.app/ </li>
+  <li>Avix Pharmaceutical Website(Commercial website): https://avixpharma.com/ </li>
   <li> My Own portfolio: https://shahriur.netlify.app/ </li>
   <li>Electro Pont website(Practice Project): https://electro-point.web.app/</li>
   <li>BD Tools Website(Practice Project):https://bd-tools-20f34.firebaseapp.com/ </li>
