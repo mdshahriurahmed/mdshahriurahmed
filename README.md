@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shahriurahmedcse@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1V6ACaPnMEsLr52XOmoeJ5MCfEUy3heF-/view](https://drive.google.com/file/d/13UhDWVJoRTW3bHN05PN1BCd2VSwfAVzN/view?usp=sharing)](https://drive.google.com/file/d/1V6ACaPnMEsLr52XOmoeJ5MCfEUy3heF-/view)
+- 📄 Know about my experiences https://drive.google.com/file/d/1V6ACaPnMEsLr52XOmoeJ5MCfEUy3heF-/view
 <h3 align="left">Best Projects:</h3>
 <ul>
   <li>Avix Pharmaceutical Website(Commercial website): https://avixpharma.com/ </li>
