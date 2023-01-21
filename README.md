@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Shahriur Ahmed</h1>
-<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
+<h3 align="center">A passionate Front End Developer from Bangladesh</h3>
 
-- 🔭 I’m currently working at [Avix Pharmaceutical Ltd.](https://avixpharma.com/) as a Web Developer
+- 🔭 I’m currently looking for a job as a Front End Developer
 
 - 👨‍💻 All of my projects are available at [https://shahriur.netlify.app/](https://shahriur.netlify.app/)
 
